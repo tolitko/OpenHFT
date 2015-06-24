@@ -1,6 +1,9 @@
 OpenHFT Parent Module
 =====================
 
+
+*Note that version chronicle-bom-1.3.2 is the last official release under the apache license.
+
 Parent module to include active modules
 
 Key Modules
